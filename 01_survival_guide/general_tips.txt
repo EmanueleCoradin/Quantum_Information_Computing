@@ -1,0 +1,14 @@
+In Fortran matrices are saved column wise.
+Interesting sizes of the matrices we should consider: N in [100, 1000].
+Produce plots with 
+    x axis = size of the matrices;
+    y axis = CPU time.
+    Compute it with different random matrices
+
+Different ways of compute the matrix multiplication:
+    matmul library
+    Row by column
+    Row by column swithching order of loops (Column by row)
+    Exploit the compiler optimization flags
+    Transpose the first matrix
+
