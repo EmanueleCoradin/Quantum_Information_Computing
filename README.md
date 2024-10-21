@@ -9,9 +9,6 @@ Each week a new folder will be pushed to the main branch, containing the hands o
 
 ## Usage
 
-Either fork this repository for your account (see here for the instruction to [fork a GitLab repository on GitHub](https://stackoverflow.com/questions/65023718/how-to-fork-a-gitlab-repository-to-github) ) or create your own branch in this repository, named `student/[your_surname]`.
-Remember to either `git fetch` or `git merge` the main branch to your branch weekly to get the new updates.
-
 ## List of topics
 
 1. A physicist survival guide: code editors, terminals, version control and compilation;
