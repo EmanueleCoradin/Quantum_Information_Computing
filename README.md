@@ -36,4 +36,3 @@ This project is licensed under the following license:
 
 The license applies to the files of this project as indicated
 in the header of each file, but not its dependencies.
->>>>>>> e2fce8f (first commit)
